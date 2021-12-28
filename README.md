@@ -21,5 +21,3 @@ npm install
 ```
 npm start
 ```
-
-Tailwind UI created by [Hassib Moddasser](https://twitter.com/hassibmoddasser)
